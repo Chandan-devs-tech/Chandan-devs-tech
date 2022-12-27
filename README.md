@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Chandan Gupta</h1>
+<h1 align="center">Hi 🌏 I'm Chandan Gupta (Chandan-devs-tech)</h1>
 <h3 align="center">A Full-stack web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-devs-tech&label=Views&color=blue&style=plastic" alt="Chandan Gupta" /></p>
 
@@ -51,8 +51,9 @@
   <a target="_blank"
     href="https://wa.me/+919794202511"><img
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+  <a target="_blank"
+    href="https://twitter.com/ChandanGuptaDev"><img
+    src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
 
-<!-- <a target="_blank"
-    href="https://twitter.com/ChandanGuptaDev"><img
-    src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a> -->
+
