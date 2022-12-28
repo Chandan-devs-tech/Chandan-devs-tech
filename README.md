@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🌏 I'm Chandan Gupta (Chandan-devs-tech)</h1>
+<h1 align="center">Hello🌏 I'm Chandan Gupta (Chandan-devs-tech)</h1>
 <h3 align="center">A Full-stack web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-devs-tech&label=Views&color=blue&style=plastic" alt="Chandan Gupta" /></p>
 
