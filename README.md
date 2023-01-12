@@ -1,4 +1,5 @@
-<h1 align="center">Hello🌏 I'm Chandan Gupta (Chandan-devs-tech)</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Chandan Gupta&nbsp;(Chandan-devs-tech)</h1>
+<!-- <h1 align="center">Hello🌏 I'm Chandan Gupta (Chandan-devs-tech)</h1> -->
 <h3 align="center">A Full-stack web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-devs-tech&label=Views&color=blue&style=plastic" alt="Chandan Gupta" /></p>
 
@@ -31,13 +32,13 @@
 ![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 
-## **Github Stats**
+<!-- ## **Github Stats**
 <a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&show_icons=true&theme=merko" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/Chandan-devs-tech/github-top-languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-devs-tech&theme=merko" />
-</a>
+</a> -->
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
