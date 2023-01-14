@@ -32,8 +32,10 @@
 ![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 
-<!-- ## **Github Stats**
-<a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
+## **Github Stats**
+
+![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&theme=midnight-purple&show_icons=true)
+<!-- <a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&show_icons=true&theme=merko" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/Chandan-devs-tech/github-top-languages">
