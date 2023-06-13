@@ -40,13 +40,13 @@
 
 ## **Github Stats**
 
-![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&theme=midnight-purple&show_icons=true)
-<!-- <a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
+<!-- ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&theme=midnight-purple&show_icons=true) -->
+<a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&show_icons=true&theme=merko" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/Chandan-devs-tech/github-top-languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-devs-tech&theme=merko" />
-</a> -->
+</a>
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
