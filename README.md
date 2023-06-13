@@ -3,7 +3,7 @@
 <h3 align="center">A Full-stack web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-devs-tech&label=Views&color=blue&style=plastic" alt="Chandan Gupta" /></p>
 
-## **About me**🧔🏻‍♂️
+## **About me** 🧔🏻‍♂️
 
 - I am currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer:
 - I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
@@ -11,7 +11,7 @@
 - I would like to contribute to the field of `Blockchain` in the future.
 ![BlockchainDistributedGIF (2)](https://user-images.githubusercontent.com/65088027/209713980-1cb52bd9-2367-48f2-a90f-c656001f61cb.gif)
 
-## **Interest** ##👏
+## **Interest** 👏
 
 - In my spare time, I love playing : Soccer ⚽ 
 - Watching movies on : Netflix 🎥 
