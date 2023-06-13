@@ -30,7 +30,7 @@
 ![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=50&color=e98b8b)
 ![Postgre SQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50&color=e98b8b)
 
-## **Tools** 🛠 
+## **Tools** 🛠️
 
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
@@ -38,7 +38,7 @@
 ![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 
-## **Github Stats**
+## **Github Stats** 📈
 
 <!-- ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&theme=midnight-purple&show_icons=true) -->
 <a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
