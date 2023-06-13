@@ -10,7 +10,13 @@
 - I'm interested in collaborating and contributing to open source projects. 👯
 - I would like to contribute to the field of `Blockchain` in the future.
 ![BlockchainDistributedGIF (2)](https://user-images.githubusercontent.com/65088027/209713980-1cb52bd9-2367-48f2-a90f-c656001f61cb.gif)
-- In my spare time, I love playing : Soccer ⚽ Watching movies on : Netflix 🎥 Listening to music on : Spotify 🎵 and Reading books on : Kindle 📔 
+
+## **Interest** ##
+
+- In my spare time, I love playing : Soccer ⚽ 
+- Watching movies on : Netflix 🎥 
+- Listening to music on : Spotify 🎵
+- Reading books on : Kindle 📔 
 
 ## **Languages & Frameworks** 📶 
 
