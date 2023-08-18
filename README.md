@@ -52,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-devs-tech&theme=algolia" alt="Chandan's GitHub streak" style="width: 50%; height: 200px">
 </div>
 
-## **Most Languages Used**
+## **Most Languages Used** 📘
 
 <div style="display: flex; justify-content: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-devs-tech&layout=compact&theme=algolia" alt="Top Langs" style="width: 50%; height: 200px">
