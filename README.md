@@ -6,17 +6,17 @@
 ## **About me** 🧔🏻‍♂️
 
 - I am currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer:
-- I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
-- I'm interested in collaborating and contributing to open source projects. 👯
-- I would like to contribute to the field of `Blockchain` in the future.
+- I’m currently learning the best practices for working as a remote software developer with the help of![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
+- I'm interested in collaborating and contributing to open-source projects. 👯
+- I would like to contribute to the future field of `Blockchain`.
 ![BlockchainDistributedGIF (2)](https://user-images.githubusercontent.com/65088027/209713980-1cb52bd9-2367-48f2-a90f-c656001f61cb.gif)
 
 ## **Interest** 👏
 
-- In my spare time, I love playing : Soccer ⚽ 
-- Watching movies on : Netflix 🎥 
-- Listening to music on : Spotify 🎵
-- Reading books on : Kindle 📔 
+- In my spare time, I love playing: Soccer ⚽ 
+- Watching movies on Netflix 🎥 
+- Listening to music on Spotify 🎵
+- Reading books on Kindle 📔 
 
 ## **Languages & Frameworks** 📶 
 
@@ -41,12 +41,22 @@
 ## **Github Stats** 📈
 
 <!-- ![Amel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&theme=midnight-purple&show_icons=true) -->
-<a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
+<!-- <a align="center" href="https://github.com/Chandan-devs-tech/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&show_icons=true&theme=algolia" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/Chandan-devs-tech/github-top-languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-devs-tech&theme=algolia" />
-</a>
+</a>-->
+<div style="display: flex; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandan-devs-tech&layout=compact&theme=algolia&show_icons=true" alt="Chandan's GitHub stats" style="width: 50%; height: 200px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-devs-tech&theme=algolia" alt="Chandan's GitHub streak" style="width: 50%; height: 200px">
+</div>
+
+## **Most Languages Used**
+
+<div style="display: flex; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-devs-tech&layout=compact&theme=algolia" alt="Top Langs" style="width: 50%; height: 200px">
+</div>
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 
