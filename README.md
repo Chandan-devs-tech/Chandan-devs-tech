@@ -5,7 +5,7 @@
 
 ## **About me** 🧔🏻‍♂️
 
-- I have  studied **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer:
+- I have  studied **Full-stack w eb development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer:
 - I'm currently learning the best practices for working as a remote software developer with the help of![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
 - I'm interested in collaborating and contributing to open-source projects. 👯
 - I would like to contribute to the future field of `Blockchain`.
