@@ -1,15 +1,14 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm Chandan Gupta&nbsp;(Chandan-devs-tech)</h1>
+<h1 align="center">Hi 👋, I'm Chandan Gupta</h1>
 <!-- <h1 align="center">Hello🌏I'm Chandan Gupta (Chandan-devs-tech)</h1> -->
 <h3 align="center"> A Full-stack web developer from India.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandan-devs-tech&label=Views&color=blue&style=plastic" alt="Chandan Gupta" /></p>
 
 ## **About me** 🧔🏻‍♂️
 
-- I have studied **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) :computer:
-- I'm currently learning the best practices for working as a remote software developer with the help of![](https://img.shields.io/badge/-Microverse-blueviolet) :book:
-- I'm interested in collaborating and contributing to open-source projects. 👯
-- I would like to contribute to the future field of `Blockchain`.
-![BlockchainDistributedGIF (2)](https://user-images.githubusercontent.com/65088027/209713980-1cb52bd9-2367-48f2-a90f-c656001f61cb.gif)
+<h3 align="">🔥A passionate Software Engineer and Full Stack Web developer 🔥</h3> 
+<p>Hello, I'm Chandan Gupta, a result-oriented software engineer and full-stack developer with over five years of experience designing and developing responsive and functional web applications.
+I am driven by client satisfaction and delivering exceptional projects. I constantly strive for continuous improvement and aim to add significant value to any organization I join. Having worked remotely and collaboratively across different time zones, I am well-versed in asynchronous communication.
+</p>
 
 ## **Interest** 👏
 
