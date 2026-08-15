@@ -12,7 +12,7 @@
 
 Senior Full Stack Engineer with 8+ years of experience building scalable web applications and cloud infrastructure for remote teams across the US, Europe, and Asia. Strong backends in Node.js and Ruby on Rails, fast frontends in React, Next.js, and TypeScript. Owns DevOps end to end on AWS, GCP, and Oracle Cloud.
 
-Spent the last two years deep in AI engineering — multi-agent benchmarks, LLM evaluation, training data pipelines, production RAG systems, and agentic workflows. Previously engaged with Amazon Web Services as an LLM Training and Data Engineer. Currently building AI infrastructure at Turing. Mentored 50+ developers into full stack roles worldwide.
+Spent the last two years deep in AI engineering multi-agent benchmarks, LLM evaluation, training data pipelines, production RAG systems, and agentic workflows. Previously engaged with Amazon Web Services as an LLM Training and Data Engineer. Currently building AI infrastructure at Turing. Mentored 50+ developers into full stack roles worldwide.
 
 ---
 
